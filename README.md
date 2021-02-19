@@ -9,4 +9,8 @@ You've to install Keras : pip install keras
 For more info. please read: https://medium.com/tiendeo-tech/setup-jupyter-notebook-workspace-with-tensorflow-keras-on-windows-e0b4102ed826
 
 You can find here how to test installation:https://github.com/tensorflow/tensorflow/blob/master/README.md#try-your-first-tensorflow-program
+
+Main Reference:Thanks to Victor as his post guided me straight to Tensorflow & Keras.
+
+
 Note: This repos is for tutorial purpose.
